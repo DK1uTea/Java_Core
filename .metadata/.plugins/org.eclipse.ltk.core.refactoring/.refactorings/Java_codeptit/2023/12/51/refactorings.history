@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;baiTapCodePtit.LoaiPhong.java&apos; to &apos;J07045.java&apos;&#x0D;&#x0A;- Original project: &apos;Java_codeptit&apos;&#x0D;&#x0A;- Original element: &apos;baiTapCodePtit.LoaiPhong.java&apos;&#x0D;&#x0A;- Renamed element: &apos;baiTapCodePtit.J07045.java&apos;" description="Rename compilation unit &apos;LoaiPhong.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;baiTapCodePtit{LoaiPhong.java" name="J07045.java" references="false" stamp="1702910890943" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;menuAboutMenuItem&apos; in &apos;view.QLSVView.QLSVView()&apos; to &apos;menuAboutMe&apos;&#x0D;&#x0A;- Original project: &apos;Study_100_Java_QuanLyDanhSachSinhVien&apos;&#x0D;&#x0A;- Original element: &apos;view.QLSVView.QLSVView().menuAboutMenuItem&apos;&#x0D;&#x0A;- Renamed element: &apos;menuAboutMenuItem&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;menuAboutMenuItem&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;view{QLSVView.java[QLSVView~QLSVView@menuAboutMenuItem!3327!3353!3337!3353!QJMenuItem;!0!false" name="menuAboutMe" references="true" stamp="1701535635010" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Study_100_Java_QuanLyDanhSachSinhVien&apos; to &apos;Study_100_101_102_103_Java_QuanLyDanhSachSinhVien&apos;" description="Rename resource &apos;Study_100_Java_QuanLyDanhSachSinhVien&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Study_100_Java_QuanLyDanhSachSinhVien" name="Study_100_101_102_103_Java_QuanLyDanhSachSinhVien" stamp="1701539076184" updateReferences="true"/>
+</session>

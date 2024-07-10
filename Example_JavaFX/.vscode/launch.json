@@ -1,0 +1,480 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "test.Test",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "CourseRegisterView",
+            "request": "launch",
+            "mainClass": "view.CourseRegisterView",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Color_Circle",
+            "request": "launch",
+            "mainClass": "Color_Circle",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "FlagAnthem",
+            "request": "launch",
+            "mainClass": "chapter16.FlagAnthem",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MediaDemo",
+            "request": "launch",
+            "mainClass": "chapter16.MediaDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "chapter16.TicTacToe",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "BounceBallSlider",
+            "request": "launch",
+            "mainClass": "chapter16.BounceBallSlider",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "SliderDemo",
+            "request": "launch",
+            "mainClass": "chapter16.SliderDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ScrollBarDemo",
+            "request": "launch",
+            "mainClass": "chapter16.ScrollBarDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ListViewDemo",
+            "request": "launch",
+            "mainClass": "chapter16.ListViewDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ComboBoxDemo",
+            "request": "launch",
+            "mainClass": "chapter16.ComboBoxDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "TextAreaDemo",
+            "request": "launch",
+            "mainClass": "chapter16.TextAreaDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "DescriptionPane",
+            "request": "launch",
+            "mainClass": "chapter16.DescriptionPane",
+            "projectName": "Example_JavaFX_7e491965"
+        },
+        {
+            "type": "java",
+            "name": "TextFieldDemo",
+            "request": "launch",
+            "mainClass": "chapter16.TextFieldDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "RadioButtonDemo",
+            "request": "launch",
+            "mainClass": "chapter16.RadioButtonDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "CheckBoxDemo",
+            "request": "launch",
+            "mainClass": "chapter16.CheckBoxDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ButtonDemo",
+            "request": "launch",
+            "mainClass": "chapter16.ButtonDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "LabelWithGraphic",
+            "request": "launch",
+            "mainClass": "chapter16.LabelWithGraphic",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "USMap",
+            "request": "launch",
+            "mainClass": "chapter15.USMap",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "BounceBallControl",
+            "request": "launch",
+            "mainClass": "chapter15.BounceBallControl",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "BallPane",
+            "request": "launch",
+            "mainClass": "chapter15.BallPane",
+            "projectName": "Example_JavaFX_7e491965"
+        },
+        {
+            "type": "java",
+            "name": "ClockAnimation",
+            "request": "launch",
+            "mainClass": "chapter15.ClockAnimation",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "TimelineDemo",
+            "request": "launch",
+            "mainClass": "chapter15.TimelineDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "FadeTransitionDemo",
+            "request": "launch",
+            "mainClass": "chapter15.FadeTransitionDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "FlagRisingAnimation",
+            "request": "launch",
+            "mainClass": "chapter15.FlagRisingAnimation",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "PathTransitionDemo",
+            "request": "launch",
+            "mainClass": "chapter15.PathTransitionDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ResizableCircleRectangle",
+            "request": "launch",
+            "mainClass": "chapter15.ResizableCircleRectangle",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ObservablePropertyDemo",
+            "request": "launch",
+            "mainClass": "chapter15.ObservablePropertyDemo",
+            "projectName": "Example_JavaFX_7e491965"
+        },
+        {
+            "type": "java",
+            "name": "ControlCircleWithMouseAndKey",
+            "request": "launch",
+            "mainClass": "chapter15.ControlCircleWithMouseAndKey",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "KeyEventDemo",
+            "request": "launch",
+            "mainClass": "chapter15.KeyEventDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MouseEventDemo",
+            "request": "launch",
+            "mainClass": "chapter15.MouseEventDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "LoanCalculator",
+            "request": "launch",
+            "mainClass": "chapter15.LoanCalculator",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "TestLambda",
+            "request": "launch",
+            "mainClass": "chapter15.TestLambda",
+            "projectName": "Example_JavaFX_7e491965"
+        },
+        {
+            "type": "java",
+            "name": "LambdaHandlerDemo",
+            "request": "launch",
+            "mainClass": "chapter15.LambdaHandlerDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousHandlerDemo",
+            "request": "launch",
+            "mainClass": "chapter15.AnonymousHandlerDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ControlCircle",
+            "request": "launch",
+            "mainClass": "chapter15.ControlCircle",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ControlCircleWithoutEventHandling",
+            "request": "launch",
+            "mainClass": "chapter15.ControlCircleWithoutEventHandling",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "HandleEvent",
+            "request": "launch",
+            "mainClass": "chapter15.HandleEvent",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "DisplayClock",
+            "request": "launch",
+            "mainClass": "chapter14.DisplayClock",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowPolygon",
+            "request": "launch",
+            "mainClass": "chapter14.ShowPolygon",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowArc",
+            "request": "launch",
+            "mainClass": "chapter14.ShowArc",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowEllipse",
+            "request": "launch",
+            "mainClass": "chapter14.ShowEllipse",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowRectangle",
+            "request": "launch",
+            "mainClass": "chapter14.ShowRectangle",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowLine",
+            "request": "launch",
+            "mainClass": "chapter14.ShowLine",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowText",
+            "request": "launch",
+            "mainClass": "chapter14.ShowText",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowHBoxVBox",
+            "request": "launch",
+            "mainClass": "chapter14.ShowHBoxVBox",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowBorderPane",
+            "request": "launch",
+            "mainClass": "chapter14.ShowBorderPane",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowGridPane",
+            "request": "launch",
+            "mainClass": "chapter14.ShowGridPane",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowFlowPane",
+            "request": "launch",
+            "mainClass": "chapter14.ShowFlowPane",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowImage",
+            "request": "launch",
+            "mainClass": "chapter14.ShowImage",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "FontDemo",
+            "request": "launch",
+            "mainClass": "chapter14.FontDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "NodeStyleRotateDemo",
+            "request": "launch",
+            "mainClass": "chapter14.NodeStyleRotateDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "BindingDemo",
+            "request": "launch",
+            "mainClass": "chapter14.BindingDemo",
+            "projectName": "Example_JavaFX_7e491965"
+        },
+        {
+            "type": "java",
+            "name": "ShowCircleCentered",
+            "request": "launch",
+            "mainClass": "chapter14.ShowCircleCentered",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ShowCircle",
+            "request": "launch",
+            "mainClass": "chapter14.ShowCircle",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ButtonInPane",
+            "request": "launch",
+            "mainClass": "chapter14.ButtonInPane",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MultipleStageDemo",
+            "request": "launch",
+            "mainClass": "chapter14.MultipleStageDemo",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Example_JavaFX_7e491965"
+        },
+        {
+            "type": "java",
+            "name": "MyJavaFX",
+            "request": "launch",
+            "mainClass": "chapter14.MyJavaFX",
+            "projectName": "Example_JavaFX_7e491965",
+            "vmArgs": "--module-path \"C:/DON'T DELETE/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
